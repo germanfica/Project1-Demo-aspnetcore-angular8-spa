@@ -7,6 +7,8 @@ Project1-Demo is a Single Page Application built with:
 
 The Angular application is hosted inside the ASP.NET Core project using the SPA template.
 
+<img width="929" height="714" alt="image" src="https://github.com/user-attachments/assets/05ddcda4-7649-4b91-bde3-557685ce5740" />
+
 ## Prerequisites
 
 Ensure the following are installed:
